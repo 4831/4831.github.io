@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Zeilen </title>
+    <link href="https://fonts.google.com/specimen/Raleway" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="homepage.css">
+  </head>
+  <body>
+<div class="head">
+      <a href="index.html"><h1> Zeilen </h1></a>
+  </div>
+<div align="center">
+  <ul>
+  <li class="dropdown">
+  <a href="Boten" class="dropbtn">Boten</a>
+   <div class="dropdown-content">
+       <a href="Boten">Zwaardboot</a>
+       <a href="Boten">Kielboot</a>
+       <a href="Boten">Zeiljachten</a>
+       <a href="Boten">Windsurfen</a>
+       </div>
+  </li>
+   <li class="dropdown">
+     <a href="Uitrusting" class="dropbtn">Zeilkleding</a>
+     <div class="dropdown-content">
+      <a href="Uitrusting">Lente</a>
+       <a href="Uitrusting">Zomer</a>
+       <a href="Uitusting">Herfst</a>
+       <a href="Uitrusting">Winter</a>
+       </div>
+  </li>
+   <li class="dropdown">
+     <a href="Zeilscholen" class="dropbtn">Zeilscholen</a>
+     <div class="dropdown-content">
+       <a href="Zeilscholen">Noord</a>
+       <a href="Zeilscholen">Midden</a>
+       <a href="Zeilscholen">Zuid</a>
+     </div>
+   </li>
+   <li class="dropdown">
+     <a href="Over.mij" class="dropbtn"> Over mij</a>
+   </li>
+ </ul>
+ </div>
+<br/>
+  <h2> Boten </h2>
+    <p>
+      Je kunt bij zeilen kiezen uit veel verschillende boottypen.
+      Er zijn 4 hoofdcategorieën: zwaard- en kielboten, zeiljachten en dan heb je ook nog het surfen.
+      Welke moet je nou kiezen? Je leeftijd is in eerste instantie bepalend.
+      Verder hangt het af van wat je leuk vindt en wat je al kunt.
+    </p>
+<h3> Zwaardboten </h3>
+<p>
+  Er zijn veel verschillende soorten zwaardboten van een kleine Optimist tot de grote 49'er, ook kun je solo of samen zeilen.
+  Voor de beginnende jonge zeiler is de Optimist of Laser Pico de beste keuze (ligt aan de leeftijd) om met zeilen kennis te maken.
+  Hoe ouder en ervaarder je bent, kan je steeds een grotere boot proberen.
+  Let wel op als je kiest voor een zwaarboot, kies je ook voor nat worden.
+  Het gebeurt namelijk gegarandeerd dat je nat wordt!
+  Door opspannend water over de rand of dat je omslaat met je boot bij een lekkere wind.
+  <br/>
+  Hieronder staan een aantal soorten zwaardboten.
+</p>
+
+<table class="koekje">
+  <tr>
+    <td class="baas">
+      <div class="cake">
+        <img src="https://www.ovingtonboats.com/media/catalog/category/Spain.jpg" class="image">
+          <div class="middle">
+            <div class="text">29'er</div>
+          </div>
+      </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="http://www.trondhjems-seilforening.no/wp-content/gallery/jolle/rs-feva_km12_2.jpg" class="image"/>
+          <div class="middle">
+            <div class="text">RS Veva Xl</div>
+          </div>
+        </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="http://vakantiekoudum.nl/wp-content/gallery/catamaran/oktober-2011-046.jpg" class="image"/>
+          <div class="middle">
+          <div class="text">Catamaran</div>
+        </div>
+      </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Laser_Standard_160588_01.jpg/266px-Laser_Standard_160588_01.jpg" class="image"/>
+        <div class="middle">
+          <div class="text">Laser</div>
+        </div>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="baas">
+      <div class="cake">
+          <img src="http://www.nedsail.nl/wp-content/uploads/P8070210-283x300.jpg"class="image"/>
+          <div class="middle">
+            <div class="text">Optimist</div>
+          </div>
+      </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="http://www.rufus.nl/wp-content/uploads/2015/03/pico7-490x512.jpg"class="image"/>
+        <div class="middle">
+          <div class="text">Laser Pico</div>
+        </div>
+      </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="http://www.cycseattle.org/wp-content/uploads/2011/02/laser-vago1.jpg"class="image"/>
+          <div class="middle">
+            <div class="text">Laser Vago</div>
+          </div>
+        </div>
+      </td>
+
+  <td class="baas">
+    <div class="cake">
+      <img src="http://www.zv-oosterplas.nl/images/441_view.png" class="image"/>
+        <div class="middle">
+          <div class="text">49'er</div>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+<h3> Kielboten </h3>
+<p>
+  Kielboten bevatten een kiel onder de romp van de boot, deze zorgt ervoor dat als de boot schuin gaat hij niet meteen omvalt.
+  Waar zwaardboters dit met hun gewicht moeten goed maken, hoeft dit minder bij een kielboot. In een kielboot wordt vaak met
+  een groepje gezeild, is het gezelliger in de boot. Verder kun je met een kielboot verdere tochten maken dat met zwaardboten,
+  omdat een kielboot een meer gangbare boot is en daar ook voor uitgerust is. Er zijn veel verschillende soorten kielboten.
+  De verschillen tussen soorten zijn onderling vaak wel klein.
+  <br/>
+  Hieronder staan een aantal soorten kielboten.
+</p>
+
+<table class="koekje">
+  <tr>
+    <td class="baas">
+      <div class="cake">
+        <img src="http://img2.koopjeskrant.be/kk2011b/pictures/00/00/67/06/14/3.jpg" class="image"/>
+          <div class="middle">
+          <div class="text">Flying Dutchman</div>
+        </div>
+      </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="http://www.aurasailing.nl/wp-content/uploads/2015/07/Valk-algemeen.jpg" class="image"/>
+          <div class="middle">
+            <div class="text">Valk</div>
+          </div>
+      </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="http://www.charterboat24.com/images/boote/201209/23822_2.jpg" class="image"/>
+          <div class="middle">
+          <div class="text">Soling</div>
+        </div>
+      </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="http://www.boten.nl/fotos/258593-2_800x600.jpg" class="image"/>
+        <div class="middle">
+          <div class="text">16-Kwadraad</div>
+        </div>
+      </div>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td class="baas">
+      <div class="cake">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Efsix.JPG/266px-Efsix.JPG" class="image"/>
+          <div class="middle">
+            <div class="text">Efsix</div>
+          </div>
+      </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="http://www.boten.nl/fotos/113460_800x600.jpg" class="image"/>
+          <div class="middle">
+            <div class="text">Vrijheid</div>
+          </div>
+        </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Star_001.jpg/266px-Star_001.jpg" class="image"/>
+          <div class="middle">
+            <div class="text">Star</div>
+          </div>
+        </div>
+    </td>
+
+
+    <td class="baas">
+      <div class="cake">
+        <img src="https://boten.nl/fotos/118348-1_800x600.jpg" class="image"/>
+        <div class="middle">
+          <div class="text">Randmeer</div>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<h3> Zeiljachten </h3>
+<p>
+  Zeiljachten worden vooral op zee gebruikt.
+  Deze boten zijn vooral heel luxe en worden vooral gebruik om grote tochten mee te varen of op vakantie te gaan.
+  Ook geven jachten de mogelijkheid om voor de toerist onbereikbare plaatsen bereikbaar te maken,
+  zoals bijvoorbeeld Alaska of baaien in Aziatische landen, de Stille Zuidzee of Micronesië.
+  Aan deze unieke ervaring hangt wel een duur prijskaartje, het huren van een jacht kost al snel duizende euro's.
+</p>
+
+
+<table class="koekje">
+  <tr>
+    <td class="baas">
+      <div class="cake">
+        <img src="http://www.nauticlink.com/nieuwsdienst/wp-content/uploads/2009/01/belugaj39.jpg" class="image"/>
+      </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="http://www.020markt.nl/img/large/1922_2007111710.jpg" class="image"/>
+      </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="http://images.boats.com/resize/wp/2/files/2003/03/img4487.jpg" class="image"/>
+      </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="http://akasiayachting.com/wp-content/uploads/images/akasiayachting.com/2015/06/famaza-sailing-yacht-master-378-227.jpg" class="image"/>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="baas">
+      <div class="cake">
+        <img src="http://eastcoastsailing.com.au/wp-content/uploads/2012/01/laura-dekker-guppy2.jpg" class="image"/>
+      </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="http://nedshipgroup.com/wp-content/uploads/main_568x418.jpg" class="image"/>
+      </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="http://www.rufus.nl/image/zeilboot/fox-22-huren/large/fox-22-zeilen_1.jpg" class="image"/>
+      </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="http://www.mathiba.nl/wp-content/uploads/2012/05/Guapo-Jeanneau-Sun-odyssey-40.3.jpg" class="image"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<h3> Windsurfen </h3>
+<p>
+  Windsurfen is anders dan zeilen, je gebruikt een combinatie van gewicht en het zeil om de surfplank te besturen.
+  Voor de beginnende surfer is dit een spel van vallen en opstaan.
+  Ook is de plank een stuk breeder en het zeil kleiner, om het toch iets makkelijker te maken.
+    <br/>
+  De gevorderde surfer pak al snel een dunnere plank en een groter zeil.
+  Hierdoor wordt het surfen uitdagender en ga je natuurlijk veel sneller.
+  Door de vele verschillende grootte in zeilen kun je steeds verder gaan.
+  Verder kun je als surfer ook leren omgaan met de trappeze om nog sneller te planeren over het water.
+    <br/>
+  Voor de echte pro, is er ook "fun" windsurfen, hierbij doe je allemaal tricks en salto of gewoon kei hard planeren.
+</p>
+
+<table class="koekje">
+  <tr>
+    <td class="baas">
+      <div class="cake">
+        <img src="https://static1.squarespace.com/static/52e3abbae4b0625f6201dc4f/54fa29c2e4b04c58386f1000/54fa2b55e4b043ab61ab08ea/1425681248647/IMG_4488.JPG?format=750w" class="image"/>
+      </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="http://www.die-segelstecherei.de/uploads/pics/windsurfen.jpg" class="image"/>
+      </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="http://www.resortbonaire.nu/wp-content/uploads/2016/03/surfen-1024x768.jpg" class="image"/>
+      </div>
+    </td>
+
+    <td class="baas">
+      <div class="cake">
+        <img src="http://m.windsurfing.pl/40e84b1a0c71cfb5ee2644cbeba46840,0,0.jpg" class="image"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+<br/>
+
+<ul class="tinkie">
+  <li class="pen"><a class="pottie" ></a></li>
+  <li class="pen"><a class="pottie" ></a></li>
+  <li class="pen"><a class="pottie" ></a></li>
+  <li class="pen"><a class="pottie" ></a></li>
+</ul>
+
+
+</body>
+</html>

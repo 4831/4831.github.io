@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Zeilen.uitrusting </title>
+  <link href="https://fonts.google.com/specimen/Raleway" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="homepage.css">
+</head>
+<body>
+
+<div class="head">
+      <a href="index.html"><h1> Zeilen </h1></a>
+  </div>
+<div align="center">
+  <ul>
+  <li class="dropdown">
+  <a href="Boten" class="dropbtn">Boten</a>
+   <div class="dropdown-content">
+       <a href="Boten">Zwaardboot</a>
+       <a href="Boten">Kielboot</a>
+       <a href="Boten">Zeiljachten</a>
+       <a href="Boten">Windsurfen</a>
+       </div>
+  </li>
+   <li class="dropdown">
+   <a href="Uitrusting" class="dropbtn">Zeilkleding</a>
+     <div class="dropdown-content">
+      <a href="Uitrusting">Lente</a>
+       <a href="Uitrustng">Zomer</a>
+       <a href="Uitrusting">Herfst</a>
+       <a href="Uitrusting">Winter</a>
+       </div>
+   </li>
+   <li class="dropdown">
+     <a href="Zeilscholen" class="dropbtn">Zeilscholen</a>
+     <div class="dropdown-content">
+       <a href="Zeilscholen">Noord</a>
+       <a href="Zeilscholen">Midden</a>
+       <a href="Zeilscholen">Zuid</a>
+     </div>
+   </li>
+   <li class="dropdown">
+     <a href="Over.mij" class="dropbtn"> Over mij</a>
+   </li>
+ </ul>
+</div>
+
+<br/>
+
+<h2> Zeilkleding </h2>
+<p>
+  Als zeiler is het belangrijk om goed gekleed te zijn. Het wordt namelijk al snel minder leuk als je het te koud of te warm hebt.
+  Kijk daarom altijd goed naar de weersverwachting en kleed je daarop.
+    <br/>
+    <br/>
+  Maar wat moet je nu aan?
+  Het is ten eerste belangrijk om altijd een zwemvest op het water aan te hebben, zelfs al kun je goed zwemmen.
+  Het is voor je eigen veiligheid!
+    <br/>
+  Daarnaast is zeer aan te raden om neoprene zeilschoenen tot over je enkels te hebben als zwaarboot zeilen,
+  dit voorkomt het snel afkoelen van je lichaam als je nat wordt.
+  Voor de kielboot zeiler zijn gewone gympen die nat mogen worden al genoeg.
+    <br/>
+  Verder is het altijd handig om ook een regenjas bij de hand te hebben.
+  Deze zorgt ervoor dat je droogblijft als het regent en je geen last hebt van de koude wind.
+    <br/>
+  Als het hard waait en je bent nieuw met zeilen in een zwaardboot, is het een goede tip om een helm op te doen.
+  Het ziet er misschien een beetje sullig uit, maar het is helemaal vervelend als je de giek tegen je hoofd krijgt.
+  Dit kan namelijk nogal best pijn doen, je kan er zelfs buiten bewustzijn van raken. Het is voor je eigen veiligheid!
+    <br/>
+    <br/>
+  Door dat het weer per seizoen veel verschilt, bestaat er geen ideaal zeilpak wat je het hele jaar aan kan doen,
+  zonder het koud of warm te krijgen. Daarom werken we bij het zeilen met laagjes. De eerste laag is meestal een zwembroek of bikini.
+  De tweede en soms derde laag verschilt per seizoen. Hierdonder staat per seizoen aan gegeven wat je het beste aan kan doen.
+</p>
+
+<div class="peer">
+  <img src="http://www.sailsupply.nl/media/catalog/product/cache/1/small_image/295x295/9df78eab33525d08d6e5fb8d27136e95/M/R/MR-Skiff-Jacket-Blue.jpg" class="taart"/>
+  <img src="https://www.wagenaarwatersport.nl/media/catalog/product/cache/1/image/650x/b67d9fc6ace76a9448ca078f02569538/2/4/2450-500x500.jpg"class="taart" />
+  <img src="https://www.watersportswarehouse.co.uk/images/product/full/g_4360J_gill-dinghy-top-jnr.jpg" class="taart"/>
+  <img src="http://www.telstarsurf.nl/cache/img/091affc80604/500/500/max/max/mk8-helm.jpeg" class="taart"/>
+</div>
+
+<h3> Lente </h3>
+<p>
+  In de lente is de gevoelstemperatuur van water niet meer dan 10 graden Celcius.
+  Ook is de buiten temperatuur vaak niet meer dan 15 graden Celcius.
+  Daardoor is het belangrijk je goed warm te kleden.
+    <br/>
+  Dit kan door middel van een water afstotend zeilpak, wat bestaat uit een jas met broek, voor de kielboot zeilers.
+    <br/>
+  En voor de zwaarboters een long john en een neopreen vest.
+  Neopreen is een stof die ervoor zorgt dat als de nat wordt hij het water vast houdt en je lichaam deze opwarmt,
+  waardoor je het na een tijdje lekker warm krijgt.
+  Verder is het zeker een aanrader om ook sokken van neopreen aan te doen.
+  Door je voeten verlies je snel en gemakkelijk warmte, vooral als deze nat worden.
+  Heb je het toch heel koud maar geen sokken? Geen probleem!
+  De goedkope en handige oplossing is om plastic zakjes om je voeten te doen en dan je zeilschoenen aan te trekken.
+  Het klinkt misschien iets minder aantrekkelijk, maar het helpt zeer effectief.
+    <br/>
+  Als laatst zijn voor iedere zeiler handschoenen met dichte vingertoppen aan te raden.
+  Door de schoot gaan je handen al snel open, en dat is zeer pijnlijk.
+</p>
+
+<img src="http://www.sailingandtravel.it/wp-content/uploads/2013/02/tribord-giacca.jpg" class="taart"/>
+<img src="https://www.boottotaal.nl/image/cache/31484%20W%20offshore%20bib-280x280.jpg" class="taart"/>
+<img src="http://beeldbank.prepublisher.com/pictures/PP/DKR/5/DKRZ4905.JPG" class="taart"/>
+<img src="http://magicmarineshop.nl/wp-content/uploads/2015/11/ultimate-long-john-women-4mm-front.jpg" class="taart"/>
+<img src="http://www.zeilkleding.nl/media/catalog/product/cache/2/image/600x/040ec09b1e35df139433887a97daa66f/4/5/4517_1_34562_3.jpg" class="taart"/>
+  <div class="banana">
+    <img src="https://www.kuipersnautic.nl/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/g/i/gill-deckhand-gloves-lang-junior.jpg" class="taart"/>
+  </div>
+<h3> Zomer </h3>
+<p>
+  In de zomer kan de temperatuur flink oplopen. Een dik zeilpak is dan compleet onhanding, want je gaat dan zweten als een otter.
+    <br/>
+  Voor de kielboters is het handigst om een korte broek met een t-shirt aan te doen.
+    <br/>
+  Voor de mensen die in een zwaardboot zeilen is een wetsuit zonder benen en armen de beste optie.
+  Zo'n wetsuit wordt ook wel een "Shorty" genoemd.
+  Het is handig om over je wetsuit een lange zwembroek te dragen, dit voorkomt een snelle slijting van het pak.
+    <br/>
+  Verder is het voor elke zeiler belangrijk om je goed in te smeren en een pet en/of zonnebril op te doen.
+  Door de weerkaatsing van de zon op het water verbrand je al snel.
+  Ook handschoetjes met open vingertoppen zijn makkelijk.
+</p>
+
+<div class="apple">
+  <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSQuABXcBx3x-lOXEVfZswp6cVx89xshaQD9RARkJLKLpuIND5cqhn9BX3ZcieWOTg6MKhSq_Q&usqp=CAE" class="taart"/>
+  <img src="https://www.kuipersnautic.nl/media/catalog/product/cache/1/image/265x265/9df78eab33525d08d6e5fb8d27136e95/g/i/gill-deckhand-gloves-kort-junior.jpg" class="taart"/>
+  <img src="http://www.fryskekadoos.nl/image/cache/data/419A-500x500.jpg" class="taart"/>
+</div>
+
+<h3> Herfst </h3>
+<p>
+  In de herfst is het water over het algemeen nog warm van de zomer maanden.
+  Boven water is het wel al een stuk frisser, mede doordat de wind harder waait.
+    <br/>
+  Hierdoor is het voor de kielboot zeiler handig om regenpak over je broek en trui aan te trekken.
+  Zorg er wel voor dat je je soepel kan bewegen in de kleren die je aantrekt.
+    <br/>
+  Voor de zwaarboot zeiler is het handigst om nu wel een heel wetsuit aan te doen.
+  Deze hoeft overgens niet heel dik te zijn, 2 à 3 mm moet voldoende zijn.
+  Om slijtage tegen te gaan is het handig om ook een regenbroek erover heen te dragen of als het warm een lange zwembroek.
+    <br/>
+  De handschoenen met gesloten vingertoppen is de beste keuze in de herfst, doordat je vingers toch snel al afkoelen.
+</p>
+
+<div class="apple">
+  <img src="https://www.watersportswarehouse.co.uk/images/product/full/g_4605_gill-hurakan-5mm-steamer-men.jpg" class="taart"/>
+  <img src="https://www.regenpakhuis.nl/regenkleding-img/deproc-oland-regenbroek-zwart-38506198b.jpg" class="taart"/>
+  <img src="https://www.kuipersnautic.nl/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/g/i/gill-deckhand-gloves-lang-junior.jpg" class="taart"/>
+</div>
+
+<h3> Winter </h3>
+<p>
+  In de wintermaanden is het het koudst, zowel boven als in het water.
+  Het is zeker aan te raden niet lang in het water te liggen en weten wat te doen bij een onderkoeling.
+    <br/>
+  Komt die weer, het zeilpak. Een uitstekende keuze voor alle kielboters!
+    <br/>
+  Voor zwaarboot zeilers is een droogpak het best. Een droogpak zorgt ervoor dat mocht je in het water belanden, je niet nat wordt.
+  Dit is het ideale pak voor de winter, doordat het je lichaamswarmte bij zich houdt en je niet laat afkoelen in het water.
+  Ook zijn de neoprene sokken weer een aanrader.
+    <br/>
+  Dikke handschoenen die alle vingertoppen bezitten zijn de beste keuze. Hierdoor kan er geen warmte verloren gaan via de vingers.
+  Ook is een must handing om op te doen, zodat je hoofd nog een beetje warm blijft.
+</p>
+
+<img src="http://www.sailingandtravel.it/wp-content/uploads/2013/02/tribord-giacca.jpg" class="taart"/>
+<img src="https://www.boottotaal.nl/image/cache/31484%20W%20offshore%20bib-280x280.jpg" class="taart"/>
+<img src="https://www.optigear.nl/media/catalog/product/cache/1/small_image/270x/9df78eab33525d08d6e5fb8d27136e95/g/u/gul-shadow-ademend-droogpak.jpg" class="taart"/>
+<img src="http://www.zeilkleding.nl/media/catalog/product/cache/2/image/600x/040ec09b1e35df139433887a97daa66f/4/5/4517_1_34562_3.jpg" class="taart"/>
+<img src="https://www.kuipersnautic.nl/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/g/i/gill-neoprene-winter-gloves-sale.jpg" class="taart"/>
+
+<br/>
+<br/>
+
+<ul class="tinkie">
+  <li class="pen"><a class="pottie" ></a></li>
+  <li class="pen"><a class="pottie" ></a></li>
+  <li class="pen"><a class="pottie" ></a></li>
+  <li class="pen"><a class="pottie" ></a></li>
+</ul>
+
+</body>
+</html>

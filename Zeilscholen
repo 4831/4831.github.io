@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Zeilen.zeilscholen </title>
+    <link href="https://fonts.google.com/specimen/Raleway" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="homepage.css">
+  </head>
+  <body>
+<div class="head">
+      <a href="index.html"><h1> Zeilen </h1></a>
+  </div>
+<div align="center">
+  <ul>
+  <li class="dropdown">
+  <a href="Boten" class="dropbtn">Boten</a>
+   <div class="dropdown-content">
+       <a href="Boten">Zwaardboot</a>
+       <a href="Boten">Kielboot</a>
+       <a href="Boten">Zeiljachten</a>
+       <a href="Boten">Windsurfen</a>
+       </div>
+  </li>
+   <li class="dropdown">
+     <a href="Uitrusting" class="dropbtn">Zeilkleding</a>
+     <div class="dropdown-content">
+      <a href="Uitrusting">Lente</a>
+       <a href="Uitrusting">Zomer</a>
+       <a href="Uitusting">Herfst</a>
+       <a href="Uitrusting">Winter</a>
+       </div>
+  </li>
+   <li class="dropdown">
+     <a href="Zeilscholen" class="dropbtn">Zeilscholen</a>
+     <div class="dropdown-content">
+       <a href="Zeilscholen">Noord</a>
+       <a href="Zeilscholen">Midden</a>
+       <a href="Zeilscholen">Zuid</a>
+     </div>
+   </li>
+   <li class="dropdown">
+<a href="Over.mij" class="dropbtn"> Over mij</a>
+</li>
+ </ul>
+ </div>
+<br/>
+  <h2> Zeilscholen </h2>
+    <p>
+      Leren zeilen is voor niemand moeilijk.
+      Kinderen en volwassenen stappen net zo makkelijk in de boot.
+      Als je gaat leren zeilen leer je alle algemene zeilregels.
+      Ook leer je alles over de zeilboot, en maak je kennis met de algemene vaarregels.
+      Om te leren zeilen sluit je je over het algemeen aan bij een vereniging, ga je naar een zeilschool of zeilkamp.
+      Lijkt het je leuk om te leren zeilen?
+      Neem dan eens een kijkje op de websites van verschillende zeilscholen door heel Nederland.
+  </p>
+  <br/>
+
+  <iframe class="koffie" src="https://www.google.com/maps/d/embed?mid=1uLql_ZQVl4SP4YxLGJqsFidhXWo" ></iframe>
+
+  <br/>
+
+<h3 class="lala"> Noord </h3>
+
+<table class="popcorn">
+  <tr>
+    <td class="thea">
+      <img src="http://mijnzeilschool.zeilschool.com/pics/zeilschoolpean.png" class="bacon">
+    </td>
+    <td class="thea">
+      Zeilschool Pean
+        <br/>
+      Nes, Friesland
+        <br/>
+      Website: <a href="https://www.pean.nl/"> Pean </a>
+    </td>
+
+    <td class="thea">
+      <img src="http://www.zeilschoolvaarschool.nl/previews/2013/10/27/media_55_20329_w400_h400_fit.png" class="bacon">
+    </td>
+    <td class="thea">
+      Zeilschool Neptunus
+        <br/>
+      Idskenhuizen, Friesland
+        <br/>
+      Website: <a href="http://www.zeilschoolneptunus.nl/"> Neptunus</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="thea">
+      <img src="http://www.zeilschoolvaarschool.nl/previews/2014/3/14/media_55_22679_w400_h400_fit.png" class="bacon">
+    </td>
+    <td class="thea">
+      Watersportcentrum De Lauwer
+        <br/>
+      Lauwersoog, Groningen
+        <br/>
+      Website: <a href="http://delauwer.nl/"> De Lauwer</a>
+    </td>
+
+    <td class="thea">
+      <img src="http://www.tehuurindebuurt.nl/data/advertenties/fb2ab880c469c83a49477f7c1707508elogo.png" class="bacon">
+    </td>
+    <td class="thea">
+      Zeilschool Blauwestad
+        <br/>
+      Midwolda, Groningen
+        <br/>
+      Website: <a href="http://zeilschoolblauwestad.nl/"> Blauwestad</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="thea">
+      <img src="http://www.zeilkamp.com/zeilscholen/drenthe/zeilschool-zuidlaardermeer.jpg" class="bacon">
+    </td>
+    <td class="thea">
+      Zeilschool Zuidlaardermeer
+        <br/>
+      Midlaren, Drenthe
+        <br/>
+      Website: <a href="http://www.zeilschoolzuidlaardermeer.nl/"> Zuidlaardermeer </a>
+    </td>
+
+    <td class="thea">
+      <img src="https://www.cnossenleekstermeer.nl/assets/img/logo.svg" class="bacon">
+    </td>
+    <td class="thea">
+      Vakantiepark Cnossen Leekstermeer
+        <br/>
+      Nietlap, Drenthe
+        <br/>
+      Website: <a href="https://www.cnossenleekstermeer.nl/zeilschool-in-drenthe"> Cnossen </a>
+    </td>
+  </tr>
+  </table>
+
+  <h3 class="lala"> Midden </h3>
+
+  <br/>
+ <table class="popcorn">
+  <tr>
+    <td class="thea">
+      <img src="https://salsa.latinnet.nl/logos/o-5075-11079058_914682341915622_164057052962819829_n.jpg" class="bacon">
+    </td>
+    <td class="thea">
+      Haddock Watersport
+        <br/>
+      Almere, Flevoland
+        <br/>
+      Website: <a href="http://www.haddockwatersport.nl/index.php"> Haddock </a>
+    </td>
+
+    <td class="thea">
+      <img src="http://www.derandmeren.nl/gfx/logo.png" class="bacon">
+    </td>
+    <td class="thea">
+      De Randmeren
+        <br/>
+      Biddinghuizen, Flevoland
+        <br/>
+      Website: <a href="http://www.derandmeren.nl/"> Randmeren</a>
+    </td>
+  </tr>
+  <tr>
+   <td class="thea">
+     <img src="http://www.uitgeestermeer.nl/assets/images/logo-uitgeestermeer.svg" class="bacon">
+   </td>
+   <td class="thea">
+     Zeilschool Uitgeestermeer
+       <br/>
+     Uitgeest, Noord-Holland
+       <br/>
+     Website: <a href="http://www.zeilschooluitgeest.nl/"> Haddock </a>
+   </td>
+
+   <td class="thea">
+     <img src="http://www.westeinderwaterweek.nl/images/sponsor/Logo-Zeilschool-Aalsmeer.jpg" class="bacon">
+   </td>
+   <td class="thea">
+     Zeilschool Aalsmeer
+       <br/>
+     Aalsmeer, Noord-Holland
+       <br/>
+     Website: <a href="http://www.zeilschool-aalsmeer.nl/index.php/nl/"> Aalsmeer</a>
+   </td>
+ </tr>
+ <tr>
+   <td class="thea">
+     <img src="http://www.rondomkaagenbraassem.nl/uploads/afbeeldingen/215/de_kaag_watersport_academy__medium.jpg" class="bacon">
+   </td>
+   <td class="thea">
+     Zeilschool De Kaag
+       <br/>
+     Kaag, Zuid-Holland
+       <br/>
+     Website: <a href="http://www.dekaag.nl/zeilschool/"> De Kaag </a>
+   </td>
+
+   <td class="thea">
+     <img src="http://www.sportwebbrielle.nl/media/logo-brielse-zeilschool.png" class="bacon">
+   </td>
+   <td class="thea">
+     De Brielse Zeilschool
+       <br/>
+     Brielle, Zuid-Holland
+       <br/>
+     Website: <a href="http://debrielsezeilschool.nl/boten"> De Brielse</a>
+   </td>
+   </tr>
+
+   <tr>
+  <td class="thea">
+    <img src="http://www.zeilschoolvinkeveen.nl/application/themes/zeilschoolvinkeveen/images/logo-zeilschool-vinkeveen.png" class="bacon">
+  </td>
+  <td class="thea">
+    Zeilschool De Vinkeveense Plassen
+      <br/>
+    Vinkeveen, Utrecht
+      <br/>
+    Website: <a href="http://www.zeilschoolvinkeveen.nl/"> De Vinkeveense Plassen </a>
+  </td>
+
+  <td class="thea">
+    <img src="http://www.zeilschooldevuurtoren.nl/gfx/logo_zeilschool-de-vuurtoren-loosdrecht.jpg" class="bacon">
+  </td>
+  <td class="thea">
+    Zeilschool de Vuurtoren
+      <br/>
+    Loosdrecht, Utrecht
+      <br/>
+    Website: <a href="http://debrielsezeilschool.nl/boten"> De Vuurtoren</a>
+  </td>
+  </tr>
+
+  <tr>
+   <td class="thea">
+     <img src="http://deloodsetenendrinken.nl/wp-content/uploads/2013/12/nieuwlogo.jpg" class="bacon">
+   </td>
+   <td class="thea">
+     Zeilcentrum De Windjutter
+       <br/>
+     Steenwijk, Overijssel
+       <br/>
+     Website: <a href="http://www.zeilcentrumdewindjutter.nl/"> De Windjutter </a>
+   </td>
+
+   <td class="thea">
+     <img src="http://www.deronduite.nl/Public/logo.png" class="bacon">
+   </td>
+   <td class="thea">
+     De Ronduite
+       <br/>
+     Wanneperveen, Overijssel
+       <br/>
+     Website: <a href="http://www.deronduite.nl/Html/Home/Home/nl/Online/04Sale.html"> De Ronduite</a>
+   </td>
+   </tr>
+
+   <tr>
+   <td class="thea">
+     <img src="https://lh3.googleusercontent.com/-nlL6ciBjIDs/AAAAAAAAAAI/AAAAAAAAAAA/ZWYThf5bZ8c/photo.jpg" class="bacon">
+   </td>
+   <td class="thea">
+     Zeilschool Voortvarend
+       <br/>
+     Nunspeet, Gelderland
+       <br/>
+     Website: <a href="http://zeilschoolvoortvarend.nl/"> Voortvarend </a>
+   </td>
+
+   <td class="thea">
+     <img src="http://in02.hostcontrol.com/resources/3dd5b3a1254515/437d385b66.jpg" class="bacon">
+   </td>
+   <td class="thea">
+     Zeil- en Motervereniging Jason
+       <br/>
+     Arnhem, Gelderland
+       <br/>
+     Website: <a href="http://zmjason.nl/jeugdzeilen"> Jason</a>
+   </td>
+   </tr>
+</table>
+<br/>
+
+  <h3 class="lala"> Zuid </h3>
+  <br/>
+   <table class="popcorn">
+    <tr>
+      <td class="thea">
+        <img src="http://www.zv-oosterplas.nl/plaatjes/caption.gif" class="bacon">
+      </td>
+      <td class="thea">
+        Zeilvereniging Oosterplas
+          <br/>
+        's-Hertogenbosch, Noord-Brabant
+          <br/>
+        Website: <a href="http://www.zv-oosterplas.nl/"> Oosterplas </a>
+      </td>
+
+      <td class="thea">
+        <img src="http://www.zeilschoolvaarschool.nl/previews/2014/2/22/media_55_22251_w400_h400_fit.png" class="bacon">
+      </td>
+      <td class="thea">
+        Zeilschool De Biesbos
+          <br/>
+        Drimmelen, Noord-Brabant
+          <br/>
+        Website: <a href="http://www.zeilschool-biesbos.nl/5/leer-zeilen-in-een-laser-pico-en/of-o'pen-bic"> De Biesbos</a>
+      </td>
+    </tr>
+
+    <tr>
+      <td class="thea">
+        <img src="https://www.aquavitesse.nl/themes/aquavitesse2016/images/logo_aquavitesse.png" class="bacon">
+      </td>
+      <td class="thea">
+        Aquavitesse
+          <br/>
+        Bruinisse, Zeeland
+          <br/>
+        Website: <a href="https://www.aquavitesse.nl/zeilles-volwassenen"> Aquavitesse</a>
+      </td>
+
+      <td class="thea">
+        <img src="http://www.zeilschoolvaarschool.nl/previews/2015/1/28/media_55_25347_w400_h400_fit.png" class="bacon">
+      </td>
+      <td class="thea">
+        Zeilschool De Viking
+          <br/>
+        Wolphaartsdijk, Zeeland
+          <br/>
+        Website: <a href="http://www.zeilenisfun.nl/"> De Viking</a>
+      </td>
+    </tr>
+
+    <tr>
+      <td class="thea">
+        <img src="http://www.zeilschoolvaarschool.nl/previews/2013/12/7/media_55_21302_w400_h400_fit.png" class="bacon">
+      </td>
+      <td class="thea">
+        Watersportschool Frissen
+          <br/>
+        Roermond, Limburg
+          <br/>
+        Website: <a href="http://www.zeilschoolzuidlaardermeer.nl/"> Frissen </a>
+      </td>
+
+      <td class="thea">
+        <img src="http://www.zeilschoolvaarschool.nl/previews/2014/4/22/media_55_23091_w400_h400_fit.png" class="bacon">
+      </td>
+      <td class="thea">
+        Sailcenter Limburg
+          <br/>
+        Kinrooi, België (net over de grens)
+          <br/>
+        Website: <a href="http://www.sailcenterlimburg.com/"> Limburg </a>
+      </td>
+    </tr>
+    </table>
+    <br/>
+    <br/>
+    <p>
+      Zoek je een andere zeilschool of staat die van jou er niet bij?
+      Neem dan een kijkje op de officiële site van de erkende <a href="https://www.cwo.nl/locaties/"> CWO Zeilscholen </a>
+    </p>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+
+    <ul class="tinkie">
+      <li class="pen"><a class="pottie" ></a></li>
+      <li class="pen"><a class="pottie" ></a></li>
+        <li class="pen"><a class="pottie" ></a></li>
+          <li class="pen"><a class="pottie" ></a></li>
+    </ul>
+
+</body>
+<html>

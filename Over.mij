@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Zeilen </title>
+    <link href="https://fonts.google.com/specimen/Raleway" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="homepage.css">
+</head>
+<body>
+
+<div class="head">
+  <a href="index.html"><h1> Zeilen </h1></a>
+</div>
+
+<div align="center">
+  <ul>
+    <li class="dropdown">
+      <a href="Boten" class="dropbtn">Boten</a>
+      <div class="dropdown-content">
+        <a href="Boten">Zwaardboot</a>
+        <a href="Boten">Kielboot</a>
+        <a href="Boten">Zeiljachten</a>
+        <a href="Boten">Windsurfen</a>
+      </div>
+    </li>
+
+    <li class="dropdown">
+      <a href="Uitrusting" class="dropbtn">Zeilkleding</a>
+      <div class="dropdown-content">
+        <a href="Uitrusting">Lente</a>
+        <a href="Uitrusting">Zomer</a>
+        <a href="Uitusting">Herfst</a>
+        <a href="Uitrusting">Winter</a>
+      </div>
+    </li>
+
+    <li class="dropdown">
+      <a href="Zeilscholen" class="dropbtn">Zeilscholen</a>
+      <div class="dropdown-content">
+        <a href="Zeilscholen">Noord</a>
+        <a href="Zeilscholen">Midden</a>
+        <a href="Zeilscholen">Zuid</a>
+      </div>
+    </li>
+
+    <li class="dropdown">
+       <a href="Over.mij" class="dropbtn"> Over mij</a>
+    </li>
+   </ul>
+</div>
+
+<br/>
+
+<h2> Over mij </h2>
+<p>
+    Ik ben op 10-jarige leeftijd begonnen met zeilen bij zeilverening "De Oosterplas" in Noord-Brabant samen met mijn broer.
+    Ik begon zoals alle andere te zeilen in een optimist, ofwel de "badkuip".
+    Toen ik begon was ik altijd erg bang dat als ik in de boot stapte het water in zou vallen of zou omslaan met m'n badkuip.
+    Maar om een optimist om te laten slaan, moet je toch echt wel iets heel fouts doen.
+    Dat is me toch een paar keer gelukt. De instructeurs waren altijd heel aardig en zeiden toen ik echt niet meer het bootje in wilde,
+    ik bij hen in de moterboot mocht zitten om toch nog een beetje mee mocht doen.
+    Na veel uren op het water oefenen werd ik steeds een beetje minder bang, maar nog steeds was ik nog niet helemaal op mijn gemak.
+    Op de vereniging kon je ook als optimist zeiler meedoen aan "de pannenkoekenrace
+    Na 3 jaar zeilen op bij de Oosterplas had ik mijn
+    CWO Jeugdzeildiploma's I en II en mijn voorderingenstaat van III.
+</p>
+<p>
+    Toen ik 13 werd, wilde mijn broer en ik graag naar Friesland toe om daar naar een zeilkamp te gaan.
+    We hadden gehoord van een nicht van mij dat ze dat helemaal geweldig vond.
+    Dus hebben mijn broer en ik op google ingetypt zeilschool Friesland.
+    Zo kwamen we uiteindelijk uit bij zeilschool Pean en schreven ons in.
+    Ik vond het best spannend om voor het eerst een week ergens anders te zijn dan mijn ouders.
+    Maar na de eerste dag bij Pean was dat helemaal weg, dit kwam vooral door de instructeurs.
+    Na een hele week alleen maar zeilen was ik zelfs niet eens meer bang om in het water te vallen,
+    omdat ik die week zoveel was omgeslagen met mijn boot. De week was totaal niet wat ik ervan verwachtte,
+    het was 10.000 x leuker! Sindsdien zijn mijn broer en ik elke zomervakantie 1 week naar Pean gegaan.
+    Tot nu toe heb ik bij Pean de CWO Zwaardboot diploma’s I,II,III gehaald en heel veel geleerd.
+    Ik begon in een Laser Pico en zeil nu Laser.
+</p>
+<p>
+    In 2012 en 2013 heb ik meegedaan aan een zeilwedstrijden voor optimisten en laser pico’s bij
+    de vereniging “De Oosterplas”. In 2012 was ik 5de geworden, maar in 2013 was ik 1ste geworden.
+    Ik was hier heel trots op, haha.
+</p>
+<p>
+    Dit jaar ga ik bij Pean een opleiding doen tot zeilinstructeur.
+    Dit houdt in dat je zelf een groepje kinderen gaat leren lesgeven.
+    Hiervoor moet je wel hard  trainen, om je eigen zeilniveau omhoog te krijgen en het niveau van het lesgeven.
+    Maar dit doe ik graag.
+</p>
+<p>
+    Wat ik nou zo leuk vind aan zeilen is dat ik me heel vrij voel op het water.
+    Ik kan hierbij helemaal mezelf zijn, wat ik soms nog wel moeilijk vind.
+    Maar op het water, in een Laser, keihard gaan, ik krijg er al een lach op mijn gezicht van.
+</p>
+
+<div class="usb">
+ <img src="http://i.imgur.com/mwJIoeum.jpg" />
+ <img class="groter" src="http://i.imgur.com/mME3SjQm.jpg"  />
+ <img  src="http://i.imgur.com/BCSNOdkm.jpg"  />
+</div>
+
+<ul class="tinkie">
+  <li class="pen"><a class="pottie" ></a></li>
+  <li class="pen"><a class="pottie" ></a></li>
+  <li class="pen"><a class="pottie" ></a></li>
+  <li class="pen"><a class="pottie" ></a></li>
+</ul>
+
+</body>
+</html>
